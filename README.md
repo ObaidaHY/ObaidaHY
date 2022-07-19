@@ -2,7 +2,7 @@
 
 
 Computer Science student at Tel-Aviv University, 
-I'm passionate about Code, Data-Structures, Math
+I'm passionate about Code, Data-Structures, Maths
 
 Skills: Java / Python
 
