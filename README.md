@@ -3,7 +3,6 @@
 
 Computer Science student at Tel-Aviv University, 
 I'm passionate about Code, Data-Structures, Maths
-![algoritms](https://user-images.githubusercontent.com/92432139/181925935-0a8b4350-0350-440a-8253-e996e718353a.png)
 
 Skills: Java / Python
 
