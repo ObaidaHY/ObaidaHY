@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Obaida
 
 
-Computer Science student at Tel-Aviv University, 
-I'm passionate about Code, Algorithms, Data-Structures and Maths
+Computer Science student at Tel-Aviv University,<br /> 
+I'm passionate about Code, Algorithms, Data-Structures and Maths<br />
 
 Skills: Java / Python
 
