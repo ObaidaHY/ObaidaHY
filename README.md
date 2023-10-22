@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Obaida<br><br><br>Computer Science student at Tel-Aviv University.<br>I'm passionate about Code, Algorithms, Data-Structures and Maths.<br><br>Programming languages: Python / Java / JavaScript / C / C++.<br>I worked on different projects involving various technologies (like ReactNative, ExpressJS, Flask...)
+Hi there 👋, I'm Obaida<br><br><br>Computer Science student at Tel-Aviv University.<br>I'm passionate about Code, Algorithms, Data-Structures and Maths.<br><br>I worked on different projects involving various technologies (like ReactNative, ExpressJS, Flask...).<br>Programming languages: Python / Java / JavaScript / C / C++.
 
 
 ## 🌐 Socials:
